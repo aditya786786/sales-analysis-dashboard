@@ -7,7 +7,7 @@ Welcome to my Sales Analysis Dashboard project! This Power BI dashboard provides
 
 ## 👤 About Me
 
-Hi, I'm **Aditya Tiwari**, a passionate data enthusiast and Power BI developer with a strong interest in creating business intelligence dashboards that uncover actionable insights.
+Hi, I'm **Aditya Tiwari**, a passionate data enthusiast and Power BI developer with a strong interest in creating business and data analysis dashboards that uncover actionable insights.
 
 Email: adityatiwari.at2000@gmail.com  
 LinkedIn: [linkedin.com/in/aditya-tiwari-601306174](https://www.linkedin.com/in/aditya-tiwari-601306174/)
